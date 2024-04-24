@@ -1,9 +1,8 @@
-numpy
-pandas
-Flask
-scikit-learn
-https://download.pytorch.org/whl/cpu/torch-1.7.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
-https://download.pytorch.org/whl/cpu/torchvision-0.8.1%2Bcpu-cp36-cp36m-linux_x86_64.whl
-requests
-Pillow
-gunicorn == 20.0.4
+numpy==1.26.4
+pandas==2.2.2
+Pillow==9.5.0
+Pillow==10.3.0
+Requests==2.31.0
+streamlit==1.33.0
+torch==2.2.2
+torchvision==0.17.2
